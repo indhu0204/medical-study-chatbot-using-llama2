@@ -1,1 +1,1 @@
-# medical-study-chatbot-using-llama2
+# Medical-studies-chatbot-using-llama2
